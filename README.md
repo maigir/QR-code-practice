@@ -1,6 +1,3 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -19,17 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+This is my first attempt to recreate a design provided by Frontend Mentor. It was a perfect first project since it didn't require any knowledge about responsive web design (to wish i haven't gotten yet). I am very proud of myself for completing the project with my own knowledge and Google (when needed). 
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+This is a screenshot of the project: 
+<img width="1034" alt="Screenshot 2024-03-21 at 12 14 09" src="https://github.com/maigir/QR-code-practice/assets/5366453/34cf5ad4-463b-4f6b-b805-ace25af8b938">
 
 ### Links
 
