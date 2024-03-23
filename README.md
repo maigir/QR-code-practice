@@ -26,5 +26,3 @@ This is my first attempt to recreate a design provided by Frontend Mentor. It wa
 
 The most difficult thing to figure out was how to center the container in the middle of a webpage. At first I tried to use position attribute, but as i was trying and failing, i decided to change my approach and use flexbox instead. 
 
-Overall, I need to practice more how to position different elements on a webpage. 
-
